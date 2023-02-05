@@ -5,6 +5,7 @@ This repository accompanies my YouTube video, "HTML & CSS Wrap-up - Completing t
 
 Link to Video:
 
+https://www.youtube.com/watch?v=weUvUeyjO3o
 
 
 Link to Channel:
